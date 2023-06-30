@@ -1,9 +1,9 @@
 <h1 align="center">Hola Visitor !🖐, I'm Edwin Moncy</h1>
-<h3 align="center">Engineering Student, Campus Creative Co lead at TinkerHub JEC</h3>
+<h3 align="center">Engineering Student at JEC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emvk09&label=Profile%20views&color=0e75b6&style=plastic" alt="emvk09" /> </p>
 
-- 🌱 I’m currently learning **Front End Web Development using React.Js**
+- 🌱 I’m currently learning **Full Stack Web Development using React.Js and Node.js**
 
 - 💬 Ask me about **Marvel comics 📺 && Android 📱**
 
